@@ -1,0 +1,10 @@
+* coalton
+
+Coalton is an efficient, statically typed functional programming
+language that supercharges Common Lisp.
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/coalton-lang/coalton.git |
+| commit  | 8952465                                         |
+| systems | coalton                                         |
+|---------+-------------------------------------------------|
