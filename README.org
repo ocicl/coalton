@@ -5,6 +5,6 @@ language that supercharges Common Lisp.
 
 |---------+-------------------------------------------------|
 | source  | git:https://github.com/coalton-lang/coalton.git |
-| commit  | da38172                                         |
+| commit  | 19e8cf5                                         |
 | systems | coalton                                         |
 |---------+-------------------------------------------------|
